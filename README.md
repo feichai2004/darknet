@@ -1,3 +1,6 @@
+Customized version of darknet that run faster on x86 CPU.
+
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #
